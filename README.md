@@ -11,9 +11,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nicolastacre&theme=radical&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastacre&layout=compact&theme=radical&langs_count=8" alt="Linguagens mais usadas por Nicolas" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastacre&layout=compact&theme=radical&locale=pt-br&cache_seconds=60"/>
+</p>
+
+
 
 ##
 

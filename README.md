@@ -29,7 +29,7 @@ Este projeto é uma coleção dos meus experimentos e estudos com as tecnologias
 
 ## 📸 Prévia do projeto
 
-> *(Adicione aqui um print do seu site ou uma demo no GitHub Pages, se disponível)*
+> 
 
 ---
 

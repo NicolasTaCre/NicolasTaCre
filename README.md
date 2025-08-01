@@ -5,42 +5,43 @@
 🚀 Em busca de desafios e novos aprendizados todos os dias!
 
 ---
+## 🔥 Minhas estatísticas:
 
-## 📁 Sobre este repositório
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolastacre&show_icons=true&theme=radical&locale=pt-br&hide=prs,issues&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nicolastacre&theme=radical&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
+</p>
 
-Este projeto é uma coleção dos meus experimentos e estudos com as tecnologias base da web:
 
-- HTML5 🧱
-- CSS3 🎨
-- JavaScript 🔧
+### 📊 Linguagens mais usadas:
 
-É aqui que coloco em prática o que estou aprendendo, e também registro minha evolução como desenvolvedor.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastacre&layout=compact&theme=radical&langs_count=8"/>
+</p>
 
----
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Linguagens e Ferramentas
 
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
-- [ ] Frameworks futuramente...
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL (MySQL)" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
 
----
 
 ## 📸 Prévia do projeto
 
-> 
+> *(Adicione aqui um print do seu site ou uma demo no GitHub Pages, se disponível)*
 
 ---
 
 ## 📬 Contato
 
-Você pode me encontrar por aqui:
+Fique à vontade para conversar comigo:
 
-- ✉️ Email: pianistanicolas@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-tagliaboa-crepaldi)
-- 🌐 [Portfólio (opcional)](https://seuportfolio.com)
-
----
-
-> “A melhor maneira de prever o futuro é criá-lo.” – *Alan Kay*
+- ✉️ Email: **pianistanicolas@gmail.com**
